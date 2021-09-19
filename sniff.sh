@@ -21,7 +21,7 @@ echo -e "    about)   about this script"
 echo -e "    x)       exit from script"
 echo -e "   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 echo -e ""
-read -p "     Please Input Number  [1-5 about or x] : " snip
+read -p "     Please Input Number  [1-3 about or x] : " snip
 case $snip in
 1)
 clear
