@@ -7,7 +7,7 @@ based on tshark
 Copy this code & paste in your termux
 
 ```
-pkg install figlet tsu root-repo termshark dos2unix -y && wget -q -O sniff.sh https://raw.githubusercontent.com/shopeex/PROJEK/main/sniff.sh && chmod +x sniff.sh && dos2unix sniff.sh
+pkg update upgrade install figlet tsu root-repo termshark dos2unix -y && wget -q -O sniff.sh https://raw.githubusercontent.com/shopeex/PROJEK/main/sniff.sh && chmod +x sniff.sh && dos2unix sniff.sh
 ```
 
 # command running
