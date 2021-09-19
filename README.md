@@ -23,3 +23,7 @@ Just simple
 # Credit :
          Please join groub telegram
            https://t.me/SNIFF_DSO
+
+
+- dont sell this script
+- dont recode / remode without credit
