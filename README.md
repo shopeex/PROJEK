@@ -17,6 +17,7 @@ Just simple
 - ./sniff.sh
 
 
-Credit :
+
+# Credit :
          Please join groub telegram
            https://t.me/SNIFF_DSO
