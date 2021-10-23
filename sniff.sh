@@ -5,8 +5,7 @@ green="\e[0;32m"
 NC="\e[0m"
 IPVPN=$(curl -s ipinfo.io/ip )
 echo " hello this tools from @SNIFF_DSO groub "
-echo " please join ! "
-sleep 4
+sleep 3
 clear
 echo ""
 figlet -f small -t "      SNIFF TOOLS"
@@ -14,7 +13,7 @@ echo -e "                                         based on tshark"
 echo -e ""
 echo -e "    1)  \e[0;32mSNIFF BUG SSL/TLS\e[0m"
 echo -e "    2)  \e[0;32mSNIFF BUG PAYLOAD\e[0m"
-echo -e "    3)  \e[0;32mDELETE TRASH LOG SNIFF\e[0m"
+echo -e "    3)  \e[0;32mDELETE LOG SNIFF\e[0m"
 echo -e ""
 echo -e "   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 echo -e "    about)   about this script"
